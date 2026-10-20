@@ -1,0 +1,6 @@
+## 1. Общая информация
+-**Этап 1** Изучил контекст, определил 4-5 критериев, создал таблицу сравнения, назначил веса , оценил PostgreSQL и MongoDB по 5-балльной шкале, рассчитал взвешенную оценку, сделал вывод о победителе.
+-**Этап 2** Создал репозиторий lab1-comprehensive-ВашаФамилия, ветки main, develop, feature/infrastructure. Создал .editorconfig и .github/CODEOWNERS, сделал коммит chore: setup editorconfig and codeowners. Настроил защиту develop . Создал, одобрил и слил PR в develop.
+-**Этап 3** Создал ветку feature/qa-gates, файлы .flake8 и .github/workflows/qa.yml, коммит ci: add flake8 and github actions workflow. Создал src/discount.py с ошибками , коммит test: add code with intentional errors. Создал PR, дождался красного статуса. Исправил ошибки, коммит fix: resolve linter errors, статус стал зеленым, слил PR.
+-**Этап 4** Изучил legacy-код, построил вdraw.ioДиаграмму деятельности (, экспортировал в uml_diagram.png. Создал ветку feature/review-plan, файл docs/review-plan.md , коммит docs: add review plan for discount module. Загрузил uml_diagram.png в docs/, коммит docs: add UML diagram for discount algorithm. Создал PR и оставил открыты
+-**Этап 5** Создал REPORT.md в ветке develop, заполнил по шаблону со ссылками на коммиты, PR и скриншоты
