@@ -8,6 +8,7 @@
 ## 2. Сравнительный анализ технологий
 ### 2.1. Матрица принятия решений
 <img width="578" height="144" alt="image" src="https://github.com/user-attachments/assets/f7ae756c-f73d-4689-ac76-92e3298be7ac" />
+
 ### 2.2. Расчет и обоснование выбора
 - [Формула взвешенной оценик:] =B2*C2+B3*C3+B4*C4+B5*C5
 - [Победителем выбрал PostgreSQL потому что:] он быстрее работает и можно гибко настраивать схемы
@@ -16,12 +17,14 @@
 ### 3.2. Контроль доступа
 <img width="931" height="100" alt="image" src="https://github.com/user-attachments/assets/b2887167-4217-4459-b716-49fc2dec1364" />
 <img width="504" height="111" alt="image" src="https://github.com/user-attachments/assets/46c0428c-de5b-4975-a2c0-501c23067f2a" />
+
 ## 4. Инструментальный контроль качества
 ### 4.1. Настройка CI/CD
 https://github.com/maksim51-wq/lab1-comprehensive--/blob/feature/qa-gates/.github/workflows/qa.yml
 ### 4.2. Работа Quality Gate
 <img width="505" height="275" alt="image" src="https://github.com/user-attachments/assets/0d8080b1-fb43-4e20-b23b-c59f27f443df" />
 <img width="451" height="57" alt="image" src="https://github.com/user-attachments/assets/ec05c26d-8ec9-42f6-b2f9-3e65a03e566b" />
+
 ## 5. Обратное проектирование и планирование ревью
 ### 5.1. Анализ алгоритма
 [UML Diagram](docs/uml_diagram.png)
